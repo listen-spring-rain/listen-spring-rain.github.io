@@ -2,7 +2,7 @@
 
 [![listen-spring-rain](https://img.shields.io/badge/rain-github-blue?logo=github)](https://github.com/listen-spring-rain)
 
-I am currently pursuing a Ph.D. degree at the School of Future Technology,
+I am currently pursuing a Ph.D. degree at Institute of Automation,
 University of Chinese Academy of Sciences (UCAS). In my free time, I enjoy reading, hiking in nature, and trying out new things.
 
 
